@@ -21,6 +21,7 @@ def get_book_opt(bookName):
             global data
             global dataSnippet
             data = json.load(responseFile)
+            print(len(data['files_found']))
             dataSnippet = data['files_found']
             
             if(data['status'] == "success"):
@@ -52,3 +53,6 @@ def get_title(bookID):
         if(bookID) == id['file_id']:
             name = id['file_name'].replace('.epub', '.txt')            
             return name
+            
+            
+get_book_opt(bookName)

@@ -4,17 +4,19 @@
 {% endblock %}
 
 {% block content %}
+{% for bk in range(0, length, 2) %} 
     <div class="card-container">    
         <div class="card" id="card1">
             <img class="card-cover" src="{{url_for('static', filename='gg.png')}}"/>
-            <p class="card-label">Here lies what was the finnest beast of all</p>
-            <a href="#"><img class="card-dld-btn" src="{{url_for('static', filename='dld.svg')}}"/></a>
+            <p class="card-label">{{books['files_found'][bk]['file_name']}}</p>
+            <a href="{{books['files_found'][bk]['files_link']}}"><img class="card-dld-btn" src="{{url_for('static', filename='dld.svg')}}"/></a>
         </div>
 
         <div class="card" id="card2">
             <img class="card-cover" src="{{url_for('static', filename='gg.png')}}"/>
-            <p class="card-label">Here lies what was the finnest beast of all</p>
-            <a href="{{result}}"><img class="card-dld-btn" src="{{url_for('static', filename='dld.svg')}}"/></a>
+            <p class="card-label">{{books['files_found'][bk+1]['file_name']}}</p>
+            <a href="{{books['files_found'][bk+1]['file_link']}}"><img class="card-dld-btn" src="{{url_for('static', filename='dld.svg')}}"/></a>
         </div>
     </div>
+{% endfor %} 
 {% endblock %}

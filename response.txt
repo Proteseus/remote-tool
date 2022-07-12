@@ -1,0 +1,28 @@
+ID: /23811691
+Name: The Rise of Endymion (Hyperion, book 4) - Dan Simmons.epub
+URL: https://library.za3k.com/fiction/The%20Rise%20of%20Endymion%20%28Hyperion%2C%20book%204%29%20-%20Dan%20Simmons.epub
+
+ID: /23811616
+Name: The Fall of Hyperion (Hyperion, book 2) - Dan Simmons.epub
+URL: https://library.za3k.com/fiction/The%20Fall%20of%20Hyperion%20%28Hyperion%2C%20book%202%29%20-%20Dan%20Simmons.epub
+
+ID: /23811410
+Name: Hyperion (Hyperion, book 1) - Dan Simmons.epub
+URL: https://library.za3k.com/fiction/Hyperion%20%28Hyperion%2C%20book%201%29%20-%20Dan%20Simmons.epub
+
+ID: /22851881
+Name: The Fall of Hyperion (hc-2) - Dan Simmons_8673.epub
+URL: http://54.145.205.91:8088/legacy/get/EPUB/8673/calibre/The%20Fall%20of%20Hyperion%20%28hc-2%29%20-%20Dan%20Simmons_8673.epub
+
+ID: /22839191
+Name: Artemis Fowl_ The Atlantis Com - Disney Hyperion_11831.epub
+URL: http://54.145.205.91:8088/legacy/get/EPUB/11831/calibre/Artemis%20Fowl_%20The%20Atlantis%20Com%20-%20Disney%20Hyperion_11831.epub
+
+ID: /22837562
+Name: Hyperion Cantos 5 - Orphans of - Dan Simmons_11981.epub
+URL: http://54.145.205.91:8088/legacy/get/EPUB/11981/calibre/Hyperion%20Cantos%205%20-%20Orphans%20of%20-%20Dan%20Simmons_11981.epub
+
+ID: /22833016
+Name: Hyperion - Dan Simmons_4954.epub
+URL: http://62.210.207.13:8081/legacy/get/EPUB/4954/Biblioteka_lYsY/Hyperion%20-%20Dan%20Simmons_4954.epub
+

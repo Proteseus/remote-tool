@@ -13,9 +13,12 @@ def index():
 @app.route('/results', methods=['POST'])
 def search():
     FormData = request.form
-    result = bk.get_book_opt(FormData['book_name'])
+    bk.get_book_opt(FormData['book_name'])
+    result = bk.data
+    length = len(result['files_found'])
+    print(length)
     print(FormData['book_name'])
-    return render_template('results.html', form_data=FormData)
+    return render_template('results.html', form_data=FormData, books = result, length = length)
 
 @app.route('/api/data/')
 def get_data():
