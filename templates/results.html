@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+{% block title %}
+    Results
+{% endblock %}
+
+{% block content %}
+    <div class="card-container">    
+        <div class="card" id="card1">
+            <img class="card-cover" src="{{url_for('static', filename='gg.png')}}"/>
+            <p class="card-label">Here lies what was the finnest beast of all</p>
+            <a href="#"><img class="card-dld-btn" src="{{url_for('static', filename='dld.svg')}}"/></a>
+        </div>
+
+        <div class="card" id="card2">
+            <img class="card-cover" src="{{url_for('static', filename='gg.png')}}"/>
+            <p class="card-label">Here lies what was the finnest beast of all</p>
+            <a href="{{result}}"><img class="card-dld-btn" src="{{url_for('static', filename='dld.svg')}}"/></a>
+        </div>
+    </div>
+{% endblock %}
