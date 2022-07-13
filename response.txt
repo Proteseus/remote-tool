@@ -1,28 +1,28 @@
-ID: /23811691
-Name: The Rise of Endymion (Hyperion, book 4) - Dan Simmons.epub
-URL: https://library.za3k.com/fiction/The%20Rise%20of%20Endymion%20%28Hyperion%2C%20book%204%29%20-%20Dan%20Simmons.epub
+ID: /31779519
+Name: McBain, Ed - 87. revír 49 - To velike zle mesto.epub
+URL: http://doma.crazycz.net/ebooks/M/McBain,%20Ed/87.%20rev%c3%adr/McBain,%20Ed%20-%2087.%20rev%c3%adr%2049%20-%20To%20velike%20zle%20mesto.epub
 
-ID: /23811616
-Name: The Fall of Hyperion (Hyperion, book 2) - Dan Simmons.epub
-URL: https://library.za3k.com/fiction/The%20Fall%20of%20Hyperion%20%28Hyperion%2C%20book%202%29%20-%20Dan%20Simmons.epub
+ID: /31779502
+Name: McBain, Ed - 87. revir 36 - Snih.epub
+URL: http://doma.crazycz.net/ebooks/M/McBain,%20Ed/87.%20rev%c3%adr/McBain,%20Ed%20-%2087.%20revir%2036%20-%20Snih.epub
 
-ID: /23811410
-Name: Hyperion (Hyperion, book 1) - Dan Simmons.epub
-URL: https://library.za3k.com/fiction/Hyperion%20%28Hyperion%2C%20book%201%29%20-%20Dan%20Simmons.epub
+ID: /31779384
+Name: Gardner - Perry Mason - 82 - Pripad odlozene vrazdy.epub
+URL: http://doma.crazycz.net/ebooks/G/Gardner,%20Erle%20Stanley/Gardner%20-%20Perry%20Mason/Gardner%20-%20Perry%20Mason%20-%2082%20-%20Pripad%20odlozene%20vrazdy.epub
 
-ID: /22851881
-Name: The Fall of Hyperion (hc-2) - Dan Simmons_8673.epub
-URL: http://54.145.205.91:8088/legacy/get/EPUB/8673/calibre/The%20Fall%20of%20Hyperion%20%28hc-2%29%20-%20Dan%20Simmons_8673.epub
+ID: /31779338
+Name: Gardner - Perry Mason - 35 - Pripad nedbale nymfy.epub
+URL: http://doma.crazycz.net/ebooks/G/Gardner,%20Erle%20Stanley/Gardner%20-%20Perry%20Mason/Gardner%20-%20Perry%20Mason%20-%2035%20-%20Pripad%20nedbale%20nymfy.epub
 
-ID: /22839191
-Name: Artemis Fowl_ The Atlantis Com - Disney Hyperion_11831.epub
-URL: http://54.145.205.91:8088/legacy/get/EPUB/11831/calibre/Artemis%20Fowl_%20The%20Atlantis%20Com%20-%20Disney%20Hyperion_11831.epub
+ID: /31779299
+Name: Gardner - Lam&Cool - 17 - Nektera neglize cosi taji.epub
+URL: http://doma.crazycz.net/ebooks/G/Gardner,%20Erle%20Stanley/Gardner%20-%20Lam%20&%20Cool/Gardner%20-%20Lam&Cool%20-%2017%20-%20Nektera%20neglize%20cosi%20taji.epub
 
-ID: /22837562
-Name: Hyperion Cantos 5 - Orphans of - Dan Simmons_11981.epub
-URL: http://54.145.205.91:8088/legacy/get/EPUB/11981/calibre/Hyperion%20Cantos%205%20-%20Orphans%20of%20-%20Dan%20Simmons_11981.epub
+ID: /31779289
+Name: Gardner - Lam&Cool - 06 - Sovy maji oci dokoran.epub
+URL: http://doma.crazycz.net/ebooks/G/Gardner,%20Erle%20Stanley/Gardner%20-%20Lam%20&%20Cool/Gardner%20-%20Lam&Cool%20-%2006%20-%20Sovy%20maji%20oci%20dokoran.epub
 
-ID: /22833016
-Name: Hyperion - Dan Simmons_4954.epub
-URL: http://62.210.207.13:8081/legacy/get/EPUB/4954/Biblioteka_lYsY/Hyperion%20-%20Dan%20Simmons_4954.epub
+ID: /31779288
+Name: Gardner - Lam&Cool - 05 - Hop nebo trop.epub
+URL: http://doma.crazycz.net/ebooks/G/Gardner,%20Erle%20Stanley/Gardner%20-%20Lam%20&%20Cool/Gardner%20-%20Lam&Cool%20-%2005%20-%20Hop%20nebo%20trop.epub
 
