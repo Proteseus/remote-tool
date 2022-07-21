@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+    Weather
+{% endblock %}
+{% block content %}
+    <form class="container_weather" action="/weather/results" method="POST">
+        <label for="city_name">Weather Information</label>
+        <input type="text" placeholder="Enter city name" class="city-input" name="city_name">
+        <input type="submit" class="btn" value="Search">
+        <h3>{{data}}</h3>
+    </form>
+    <div id="weather_section">
+        {% block contents %}
+
+        {% endblock %}
+    </div>
+{% endblock %}

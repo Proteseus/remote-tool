@@ -1,0 +1,33 @@
+{% extends 'weather_main.html' %}
+
+{% block title %}
+    Weather in {{col['information']['name']}}
+{% endblock %}
+
+{% block content%}
+    <table class="table">
+        <thead>
+            <tr>
+                <td id="city_name">{{col['information']['name']}}</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Current: {{col['weather']['weather']}}</td>
+                <td>Humidity: {{col['temperature']['humidity']}}</td>
+            </tr>
+            <tr>
+                <td>Temperature: {{col['temperature']['temp']}}</td>
+                <td>Feels like: {{col['temperature']['feels_like']}}</td>
+            </tr>
+            <tr>
+                <td>Pressure: {{col['weather']['pressure']}}</td>
+                <td>Visibility: {{col['information']['visibility']}}</td>
+            </tr>
+            <tr>
+                <td>Wind Speed: {{col['information']['wind_speed']}}</td>
+                <td>Wind degree: {{col['information']['wind_deg']}}</td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}
