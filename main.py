@@ -1,12 +1,9 @@
 #main.py
-from ast import For
-from crypt import methods
-from dataclasses import dataclass
 import re
 from flask import Flask, render_template, Response, request, redirect, url_for
 import json
 import BookResp as bk
-import weather as wr
+import current_weather as wr
 
 app = Flask(__name__)
 
@@ -43,7 +40,7 @@ def get_weather_results():
         wrs = wr.Weather.get_weather(wr.Weather)
         tmp = wr.Weather.get_temp(wr.Weather)
         inf = wr.Weather.get_info(wr.Weather)
-    
+
         col = {'weather': wrs, 'temperature': tmp, 'information': inf}
         return render_template('weather_child.html', col=col)
     
