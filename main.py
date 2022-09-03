@@ -32,7 +32,7 @@ def get_weather_data():
 @app.route('/weather/results', methods=['POST'])
 def get_weather_results():
     FormData = request.form
-    wr.Weather.fetch_weather(wr.Weather, FormData['city_name'])
+    wr.Weather.fetch_weather(wr.Weather)#, FormData['city_name'])
     result = wr.Weather().fetch_status()
     if result == -1:
         return redirect('weather_main.html', data='Weather data not found')

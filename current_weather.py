@@ -5,7 +5,7 @@ from flask import jsonify
 url = "https://weatherbit-v1-mashape.p.rapidapi.com/current" 
 
 class Weather():
-    def fetch_weather(self, city):
+    def fetch_weather(self):
         querystring = {"lat":"9.0","lon":"38.7","units":"metric","lang":"en"}
 
         headers = {
