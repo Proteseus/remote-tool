@@ -9,7 +9,7 @@ def get_book_opt(bookName):
     querystring = {"q":bookName,"filetype":"epub","type":"ebook"}
     headers = {
     'x-rapidapi-host': "filepursuit.p.rapidapi.com",
-    'x-rapidapi-key': "fbc3f7553bmshc5986cd99c61e17p1514a6jsn9a924f8deda7"
+    'x-rapidapi-key': "YOUR_API_TOKEN"
     }
     global response
     response = requests.request("GET", url, headers=headers, params=querystring)
