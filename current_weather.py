@@ -9,7 +9,7 @@ class Weather():
         querystring = {"lat":"9.0","lon":"38.7","units":"metric","lang":"en"}
 
         headers = {
-            "X-RapidAPI-Key": "fbc3f7553bmshc5986cd99c61e17p1514a6jsn9a924f8deda7",
+            "X-RapidAPI-Key": "YOUR_API_TOKEN",
             "X-RapidAPI-Host": "weatherbit-v1-mashape.p.rapidapi.com"
         }
         
